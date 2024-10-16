@@ -1,5 +1,5 @@
 // Dados do aluno
-const nomeAluno = "Ryan Silva";
+const nomeAluno = "Pedro Cruz";
 const idadeAluno = 16;
 const disciplinas = ["Matemática", "Português", "História", "Geografia"];
 const concluiuCurso = false;
