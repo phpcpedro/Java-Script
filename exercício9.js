@@ -1,5 +1,5 @@
 // Declarando as variáveis
-const nome = "Ryan Silva";
+const nome = "Pedro Cruz";
 const idade = 16;
 const inscrito = true;
 const curso = "Programação Front-end";
